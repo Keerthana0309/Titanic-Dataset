@@ -3,8 +3,8 @@ The Titanic dataset consists of demographic and traveling information for 1,309 
 
 A Brief summary of the features are:
 
-pclass: Passenger class (1 = 1st; 2 = 2nd; 3 = 3rd)
-survival: Does the passenger survive or not (0 = No; 1 = Yes) --> Target
+# pclass: Passenger class (1 = 1st; 2 = 2nd; 3 = 3rd)
+# survival: Does the passenger survive or not (0 = No; 1 = Yes) --> Target
 name: Name of each passenger
 sex: male/female
 age: Age
